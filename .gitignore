@@ -181,4 +181,4 @@ cython_debug/
 .cursorindexingignore
 
 # AIMS local configuration
-aims_config.json
+settings.json
