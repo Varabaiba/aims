@@ -182,3 +182,4 @@ cython_debug/
 
 # AIMS local configuration
 settings.json
+aims.sqlite3

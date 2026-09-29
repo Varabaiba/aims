@@ -1,8 +1,8 @@
 {
-  "text": "TEST",
+  "text": "Nutsius",
   "textCase": "inherit",
   "font": "small",
-  "textColor": "#b3242e",
+  "textColor": "#FFFFFF",
   "textBlinkMs": 0,
   "textFadeMs": 0,
   "textCenter": true,
@@ -47,6 +47,6 @@
   "stack": true,
   "wakeup": false,
   "sound": "",
-  "soundRtttl": "siren:d=8,o=5,b=200:c,g,c,g",
+  "soundRtttl": "",
   "soundLoop": false
 }
